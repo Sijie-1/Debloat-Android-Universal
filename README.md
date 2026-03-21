@@ -6,12 +6,6 @@ Este repositorio aloja secuencias de comandos ADB diseñadas para eliminar aplic
 
 Los métodos de desinstalación detallados en este repositorio **no funcionan en dispositivos con MIUI o HyperOS**. El entorno de Xiaomi bloquea activamente la desinstalación profunda de paquetes de sistema mediante el comando `pm uninstall --user 0`. Los usuarios de estos sistemas operativos requieren métodos alternativos o privilegios de superusuario (root) para alterar las aplicaciones preinstaladas.
 
-## Estructura del Proyecto
-
-El repositorio categoriza los comandos para evitar la ejecución de secuencias incompatibles:
-* `/scripts/`: Contiene los archivos ejecutables agrupados por fabricante (Samsung, Motorola, Huawei, etc.).
-* `/paquetes/`: Incluye el listado en texto plano de los paquetes identificados.
-
 ## Instrucciones de Uso
 
 1. Instale las herramientas de la plataforma Android (ADB) en su computadora.
