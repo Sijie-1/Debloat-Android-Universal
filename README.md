@@ -20,6 +20,13 @@ La arquitectura de este script presenta restricciones funcionales importantes. L
 4. Navega hacia el directorio de descarga del repositorio mediante el comando `cd`.
 5. Inicia el proceso de limpieza ejecutando `python apps.py`.
 
+## 1.1 Guía de Ejecución: GNU/Linux
+1. Abre un emulador de terminal en tu entorno de trabajo.
+3. Copia todo el texto de apps.txt
+4. Pega el contenido copiado en tu terminal
+5. Enter
+6. Be happy
+
 ## Guía de Ejecución: Windows
 1. Descarga el instalador de Python desde el portal oficial y marca la casilla "Add Python to PATH" antes de iniciar la instalación.
 2. Extrae el archivo ZIP de las Platform-Tools de Android en una ruta accesible del disco duro.
