@@ -1043,6 +1043,7 @@ adb shell pm uninstall --user 0 com.google.android.dialer
 adb shell pm uninstall --user 0 com.google.android.email
 adb shell pm uninstall --user 0 com.google.android.ext.shared
 adb shell pm uninstall --user 0 com.google.android.feedback
+adb shell pm uninstall --user 0 com.google.android.gm
 adb shell pm uninstall --user 0 com.google.android.gm.exchange
 adb shell pm uninstall --user 0 com.google.android.gms.dynamite_googlecertificates
 adb shell pm uninstall --user 0 com.google.android.gms.dynamite_measurementdynamite
@@ -1245,6 +1246,7 @@ adb shell pm uninstall --user 0 com.king.candycrush4
 adb shell pm uninstall --user 0 com.king.candycrushsaga
 adb shell pm uninstall --user 0 com.king.candycrushsodasaga
 adb shell pm uninstall --user 0 com.knox.vpn.proxyhandler
+adb shell pm uninstall --user 0 com.kapp.youtube.final
 adb shell pm uninstall --user 0 com.lenovo.lsf.user
 adb shell pm uninstall --user 0 com.lenovo.ue.device
 adb shell pm uninstall --user 0 com.lge.LGSetupView
@@ -2259,6 +2261,7 @@ adb shell pm uninstall --user 0 com.wingtech.standard
 adb shell pm uninstall --user 0 com.wsomacp
 adb shell pm uninstall --user 0 com.wssnps
 adb shell pm uninstall --user 0 com.wt.secret_code_manager
+adb shell pm uninstall --user 0 com.xiaomi.scanner
 adb shell pm uninstall --user 0 com.xdroid.setupwizard
 adb shell pm uninstall --user 0 com.yahoo.mobile.client.android.liveweather
 adb shell pm uninstall --user 0 com.yandex.browser
